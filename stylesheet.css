@@ -1,0 +1,13 @@
+body { background-color: #fff; margin: 0px; padding-top: 280px; text-align: center; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;  }
+		h1   { font-size: 24px; font-weight: normal; }
+		h2   { font-size: 18px; font-weight: normal; }
+		h3, h3 a   { font-size: 14px; color: #999; font-weight: normal; }
+		img.profile-img {
+			min-width: 80px!important;
+			min-height: 80px!important;
+			max-width: 80px;
+			border-radius: 40px;
+		}
+		.profiles img {
+			height: 30px; margin: 2px;
+		}
